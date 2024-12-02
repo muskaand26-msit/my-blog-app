@@ -10,7 +10,7 @@ A simple blog app built using Vite, React, and Tailwind CSS. This repository is 
 
 ## Getting Started
 
-To set up the project locally:
+To set up this project locally:
 
 1. Clone the repository:
    ```bash
