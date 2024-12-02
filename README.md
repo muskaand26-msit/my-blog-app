@@ -1,8 +1,17 @@
-# React + Vite
+# My Blog App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple blog app built using Vite, React, and Tailwind CSS. This repository is designed for open-source contributions.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fast development with Vite
+- Styled using Tailwind CSS
+- Modular and scalable React components
+
+## Getting Started
+
+To set up the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/my-blog-app.git
